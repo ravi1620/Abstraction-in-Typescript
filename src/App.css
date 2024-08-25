@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-image: url(https://static.vecteezy.com/system/resources/previews/005/162/399/non_2x/cartoon-wild-animals-in-the-jungle-free-vector.jpg);
+  object-fit: fill;
+  background-size: cover;
+}
+
+.h1,p{
+  color: rgb(10, 62, 231);
+}
